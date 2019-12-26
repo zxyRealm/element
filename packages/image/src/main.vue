@@ -62,6 +62,10 @@
       zIndex: {
         type: Number,
         default: 2000
+      },
+      appendToBody: {
+        type: Boolean,
+        default: false
       }
     },
 
